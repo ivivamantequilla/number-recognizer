@@ -1,2 +1,2 @@
 # githubdesktop test
- first repo for githubdesktop
+ first repo from githubdesktop
